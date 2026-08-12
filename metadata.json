@@ -1,0 +1,6 @@
+{
+  "name": "AGRANDA - Insumos Agrícolas Premium",
+  "description": "Tienda digital de insumos agrícolas y panel de administración para fertilizantes, semillas certificadas, maquinaria y agroquímicos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
